@@ -1,2 +1,2 @@
 # YoutubeClone-React
-Incomplete
+Fully responsive youtube clone using React , Tailwind css and RAPID API.
