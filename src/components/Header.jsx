@@ -88,7 +88,7 @@ const Header = () => {
             </div>
           </div>
           <div className="flex h-8 w-8 overflow-hidden rounded-full md:ml-4">
-              <img src="https://xsgames.co/randomusers/assets/avatars/male/40.jpg" alt="profile_img" />
+              <img src="https://avatars.githubusercontent.com/u/20332318?s=400&u=df51e06387599f43695da77a6307b6677ae68aa3&v=4" alt="profile_img" />
             </div>
         </div>
     </div>
