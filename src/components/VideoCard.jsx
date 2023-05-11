@@ -6,6 +6,7 @@ import VideoLength from "../shared/videoLength";
 
 const VideoCard = ({ video }) => {
   return (
+    //improve its ui
     <Link to={`/video/${video?.videoId}`}>
       <div className="flex flex-col mb-8">
         <div className="relative h-48 md:h-40 md:rounded-xl overflow-hidden">
