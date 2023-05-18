@@ -7,6 +7,7 @@ import VideoLength from "../shared/videoLength";
 const VideoCard = ({ video }) => {
   return (
 //     little adjustments needed to look like original one
+    // need to adjust the whole screen
     <Link to={`/video/${video?.videoId}`}>
       <div className="flex flex-col mb-8">
         <div className="relative h-48 md:h-40 md:rounded-xl overflow-hidden">
