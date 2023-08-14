@@ -10,7 +10,7 @@ const options = {
     }
 };
 
-// Method to fetch api data
+// Method to fetch api data from rapid api server
 export const fetchDataFromApi = async (url) => {
     const {data} = await axios.get(`${BASE_URL}/${url}`, options)
     return data
