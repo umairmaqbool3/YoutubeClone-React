@@ -2,7 +2,7 @@
 // base url
  const BASE_URL = "https://youtube138.p.rapidapi.com";
 
-// headers options
+
 const options = {
     params: { hl: 'en', gl: 'US'},
     headers: {
